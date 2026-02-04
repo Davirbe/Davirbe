@@ -39,7 +39,19 @@ Desenvolvimento de **pipelines automatizados** para Vacinologia Reversa aplicada
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### 📦 Pacotes & Bibliotecas (Python)
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-3B9C9C?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -61,30 +73,22 @@ Desenvolvimento de **pipelines automatizados** para Vacinologia Reversa aplicada
 <div align="center">
 
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-2%20%26%203-00D9FF?style=for-the-badge&logo=google&logoColor=white)
+![ESMFold](https://img.shields.io/badge/ESMFold-Meta_AI-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![RosettaFold](https://img.shields.io/badge/RosettaFold-Structure_Prediction-FF6B6B?style=for-the-badge)
 ![SWISS-MODEL](https://img.shields.io/badge/SWISS--MODEL-Homology-4ECDC4?style=for-the-badge)
-![I-TASSER](https://img.shields.io/badge/I--TASSER-Ab_initio-95E1D3?style=for-the-badge)
-![MODELLER](https://img.shields.io/badge/MODELLER-Comparative-F38181?style=for-the-badge)
+![DI-TASSER](https://img.shields.io/badge/DI--TASSER-Ab_initio-95E1D3?style=for-the-badge)
 
 </div>
 
-### 🔗 Docking Molecular
-
-<div align="center">
-
-![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-Docking-2E86AB?style=for-the-badge)
-![HADDOCK](https://img.shields.io/badge/HADDOCK-Protein_Docking-A23B72?style=for-the-badge)
-![ClusPro](https://img.shields.io/badge/ClusPro-Server-F18F01?style=for-the-badge)
-![HDOCK](https://img.shields.io/badge/HDOCK-Fast_Docking-C73E1D?style=for-the-badge)
-
-</div>
-
-### ⚛️ Dinâmica Molecular
+### 🔗 Docking & Dinâmica Molecular
 
 <div align="center">
 
 ![GROMACS](https://img.shields.io/badge/GROMACS-MD_Simulation-00539C?style=for-the-badge)
 ![NAMD](https://img.shields.io/badge/NAMD-Scalable_MD-D4A373?style=for-the-badge)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-Docking-2E86AB?style=for-the-badge)
+![HADDOCK](https://img.shields.io/badge/HADDOCK-Protein_Docking-A23B72?style=for-the-badge)
+![DockThor](https://img.shields.io/badge/DockThor-Docking-C73E1D?style=for-the-badge)
 
 </div>
 
@@ -94,8 +98,7 @@ Desenvolvimento de **pipelines automatizados** para Vacinologia Reversa aplicada
 
 ![PyMOL](https://img.shields.io/badge/PyMOL-Visualization-00C9A7?style=for-the-badge)
 ![UCSF_Chimera](https://img.shields.io/badge/UCSF_Chimera-Structure_Analysis-845EC2?style=for-the-badge)
-![Biopython](https://img.shields.io/badge/Biopython-Sequence_Analysis-3B9C9C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Discovery_Studio](https://img.shields.io/badge/Discovery_Studio-BIOVIA-217346?style=for-the-badge)
 
 </div>
 
